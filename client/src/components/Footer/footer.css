@@ -1,0 +1,7 @@
+.fot {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  width: 100%;       /* ocupa todo el ancho */
+}
